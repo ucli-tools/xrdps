@@ -15,7 +15,7 @@ This script allows to quicly set up XRDP on Ubuntu 24.04.
 
 ```bash
 # Download the script
-git clone https://github.com/Mik-TF/xrdps
+git clone https://github.com/ucli-tools/xrdps
 cd xrdps
 
 # Run the Makefile
